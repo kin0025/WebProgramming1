@@ -1,0 +1,22 @@
+$headergrey: slategrey;
+
+header {
+  nav {
+    background-color: lightslategray;
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    ul li  {
+      display: inline;
+      padding-left: 2px;
+      padding-right: 2px;
+list-style-type:none;
+      :hover {
+        color: lightslategray;
+        background-color: white;
+      }
+    }
+
+  }
+
+}
